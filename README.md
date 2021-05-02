@@ -1,2 +1,0 @@
-# JBA
- Inventarios
